@@ -1,0 +1,54 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family:Verdana;
+	color:white;
+}
+html,body
+{
+	height:100%;
+}
+body
+{
+	background:url('./images/main.jpg');
+	background-size:cover;
+}
+
+.float-left
+{
+	padding:10px;
+	float:left;
+
+}
+.count
+{
+	color:black;
+}
+.redeem
+{
+	position:relative;
+	top:100px;
+	text-align:center;
+	padding:10px;
+	padding-left:40px;
+}
+.float-left-2
+{
+	width:17%;
+	padding:10px;
+	float:left;
+	margin-right:10px;
+	background-color:white;
+    border-radius:5px;
+	cursor:pointer;
+}
+.content img
+{
+	width:80%;
+}
+.float-right
+{
+	padding:10px;
+	float:right;
+
+}
